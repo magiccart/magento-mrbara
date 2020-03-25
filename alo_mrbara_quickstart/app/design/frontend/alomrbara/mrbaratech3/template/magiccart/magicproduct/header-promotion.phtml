@@ -1,0 +1,40 @@
+<?php
+/**
+ * Magiccart 
+ * @category 	Magiccart 
+ * @copyright 	Copyright (c) 2014 Magiccart (http://www.magiccart.net/) 
+ * @license 	http://www.magiccart.net/license-agreement.html
+ * @Author: DOng NGuyen<nguyen@dvn.com>
+ * @@Create Date: 2014-05-08 22:57:12
+ * @@Modify Date: 2016-09-28 09:18:58
+ * @@Function:
+ */
+ ?>
+<div class="magicproduct">
+<?php
+$tabs = $this->getTabs();
+$ajax = json_encode($this->getProductCfg());
+$numTabs = count($tabs);
+$toDate = $this->getData('countdown');
+if($toDate):
+?>
+    <div class="alo-count-down count-down-time">
+	    <span class="slogan-countdown"><?php echo __('Promotion ends in:') ?></span>
+	    <div id="countbox_<?php echo $this->getIdentifier(); ?>" class="timer-view"></div>
+    </div>
+    <script type="text/javascript">
+        (function (){
+            var dthen = new Date("<?php echo Date("m/d/y", strtotime($toDate)).' 11:59:00 PM'; ?>");
+            var start_date = Date.parse(startMcTimer);
+            var dnow = new Date(start_date);
+            if(CountStepper>0) ddiff= new Date((dnow)-(dthen));
+            else ddiff = new Date((dthen)-(dnow));
+            var gsecs = Math.floor(ddiff.valueOf()/1000);
+            var iid = "countbox_<?php echo $this->getIdentifier(); ?>";
+            CountBack(gsecs,iid, mcTimer);
+            mcTimer++;
+        })();
+    </script>
+<?php endif ?>
+</div>
+

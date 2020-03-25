@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <magicslider>
+    <slide>
+      <title><![CDATA[Slide Home Fashion]]></title>
+      <identifier><![CDATA[slide-home-fashion]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slide1a.jpg","file":"\/s\/l\/slide1a.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide1\">\n\t\t<h3 class=\"caption1 primary-font white\">fashion Trending 2017<\/h3>\n\t\t<h3 class=\"caption2 white\">Mr.<br>Bara<\/h3>\n\t\t<h3 class=\"caption3 white\">Constructed in cotton sweat fabric,<br>this lovely piece, lacus eu mattis auctor, dolor lectus <br>venenatis nulla.<\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop primary-font\">View Lookbook<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slide1b.jpg","file":"\/s\/l\/slide1b.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide2\">\n\t\t<h3 class=\"caption1 primary-font white\">discoverty new style<\/h3>\n\t\t<h3 class=\"caption2 white\">Mr.<br>Denim<\/h3>\n\t\t<h3 class=\"caption3 white\">Constructed in cotton sweat fabric,<br>this lovely piece, lacus eu mattis auctor, dolor lectus <br>venenatis nulla.<\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop primary-font\">View Lookbook<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slide1c.jpg","file":"\/s\/l\/slide1c.jpg","label":"","position":"3","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption1 primary-font white\">look so cooler with<\/h3>\n\t\t<h3 class=\"caption2 white\">Forever &<br>Young<\/h3>\n\t\t<h3 class=\"caption3 white\">Constructed in cotton sweat fabric,<br>this lovely piece, lacus eu mattis auctor, dolor lectus <br>venenatis nulla.<\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop primary-font\">View Lookbook<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1920";s:6:"height";s:4:"1010";s:8:"controls";s:1:"0";s:5:"pager";s:1:"1";s:5:"pause";s:4:"6000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+  </magicslider>
+</root>

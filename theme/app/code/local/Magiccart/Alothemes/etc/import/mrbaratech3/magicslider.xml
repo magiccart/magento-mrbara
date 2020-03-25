@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <magicslider>
+    <slide>
+      <title><![CDATA[Slide Home Tech V3]]></title>
+      <identifier><![CDATA[slide-home-tech-v3]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/web.com\/alo_mrbara2_1x\/media\/magiccart\/magicslider\/s\/l\/slide-tech-1-3.jpg","file":"\/s\/l\/slide-tech-1-3.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide1\">\n\t\t<h3 class=\"caption1 black\">iPhone 6s<\/h3>\n\t\t<h3 class=\"caption2 gray\">Best smartphone with the most<br>powerful for all of you<\/h3>\n\t\t<h3 class=\"caption3 gray\">$775.25<br><span class=\"slide-special-price\">$625.50<\/span><\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop\">Buy Now<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_mrbara2_1x\/media\/magiccart\/magicslider\/s\/l\/slide-tech-2-3.jpg","file":"\/s\/l\/slide-tech-2-3.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide2\">\n\t\t<h3 class=\"caption1 black\">Pasonomi VR<\/h3>\n\t\t<h3 class=\"caption2 gray\">Virtual Reality Headset<br>3D VR Glasses<\/h3>\n\t\t<h3 class=\"caption3 gray\">$38.90<br><span class=\"slide-special-price\">$23.99<\/span><\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop\">Buy Now<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_mrbara2_1x\/media\/magiccart\/magicslider\/s\/l\/slide-tech-3-3.jpg","file":"\/s\/l\/slide-tech-3-3.jpg","label":"","position":"3","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption1 black\">Xbox One<\/h3>\n\t\t<h3 class=\"caption2 gray\">Special Edition Lunar White<br>Wireless Controller<\/h3>\n\t\t<h3 class=\"caption3 gray\">$76.50<br><span class=\"slide-special-price\">$68.89<\/span><\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop\">Buy Now<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:3:"890";s:6:"height";s:3:"521";s:8:"controls";s:1:"1";s:5:"pager";s:1:"1";s:5:"pause";s:5:"60000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+  </magicslider>
+</root>

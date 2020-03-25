@@ -1,0 +1,54 @@
+.magicslider{padding:0px;margin:0;}
+.bx-wrapper .bx-caption {display:none;z-index: -1;}
+.bx-wrapper .bx-caption.start, .bx-wrapper .bx-caption.play { display:block;z-index: 1;}
+.magicslider .text-slide{text-align: left;position: absolute;left: 17%;top: 37%;-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);-o-transform: translateY(-50%);transform: translateY(-50%);}
+.text-slide {opacity: 0;visibility: hidden;}
+.play .text-slide {opacity: 1; visibility: visible;}
+.play .caption1 {opacity: 1;font-size: 13px;font-weight:400;line-height: 1;margin: 0 0 46px;text-transform: uppercase;letter-spacing: 7px;
+    -moz-animation: fadeInRight 0.8s ease-in 1.3s backwards;
+    -webkit-animation: fadeInRight 0.8s ease-in 1s backwards;
+    animation: fadeInRight 0.8s ease-in 1s backwards;
+}
+.play .caption2 {opacity:1;font-weight: 700;font-size: 70px;margin: 0 0 0 -8px;line-height: 70px;text-transform: uppercase;
+    -moz-animation: fadeInLeft 0.8s ease-in 1.5s backwards;
+    -webkit-animation: fadeInLeft 0.8s ease-in 1.5s backwards;
+    animation: fadeInLeft 0.8s ease-in 1.5s backwards;
+}
+.play .caption3 {opacity:1;font-size: 16px;margin: 20px 0 0;line-height: 24px;font-weight: 300;max-width: 554px;
+    -moz-animation: fadeInUp 0.8s ease-in 1.7s backwards;
+    -webkit-animation: fadeInUp 0.8s ease-in 1.7s backwards;
+    animation: fadeInUp 0.8s ease-in 1.7s backwards;
+}
+.play .caption4 {opacity:1;margin: 3px 0 0;;display: block; font-size: 26px;line-height: 26px;font-weight: bold;
+    -moz-animation: fadeInLeft 0.8s ease-in 2s backwards;
+    -webkit-animation: fadeInLeft 0.8s ease-in 2s backwards;
+    animation: fadeInLeft 0.8s ease-in 2s backwards;
+}
+.play .caption5{opacity: 1;margin: 0;;display: block;
+    -moz-animation: fadeInLeft 0.8s ease-in 2.5s backwards;
+    -webkit-animation: fadeInLeft 0.8s ease-in 2.5s backwards;
+    animation: fadeInLeft 0.8s ease-in 2.5s backwards;
+}
+.magicslider .text-slide .btn-shop{padding: 0px 33px;line-height: 59px;display: inline-block;color: #fff;font-weight: 700;font-size: 18px;margin-top: 65px;text-transform: uppercase;letter-spacing: 1px;}
+.magicslider .bx-wrapper .bx-controls-direction a{border: 0;width: 65px;height: 65px;line-height: 65px;border-radius: 0;-moz-transition: all 0.45s ease;-webkit-transition: all 0.45s ease;-o-transition: all 0.45s ease;-ms-transition: all 0.45s ease;transition: all 0.45s ease;visibility: hidden;opacity: 0;top: 45%;}
+.magicslider .bx-controls-direction .bx-prev, 
+.magicslider .bx-controls-direction .bx-next {text-align: center;-moz-transition: all 0.45s ease;-webkit-transition: all 0.45s ease;-o-transition: all 0.45s ease;-ms-transition: all 0.45s ease;transition: all 0.45s ease;visibility: hidden;opacity: 0;}
+.magicslider .bx-wrapper .bx-controls-direction a .fa{display: none;}
+.magicslider .bx-wrapper .bx-controls-direction a.bx-prev{left: 46px;}
+.magicslider .bx-wrapper .bx-controls-direction a.bx-next{right: 46px;}
+.magicslider .bx-wrapper .bx-controls-direction a.bx-prev:before{content: "\f3d2";}
+.magicslider .bx-wrapper .bx-controls-direction a.bx-next:before{content: "\f3d3";}
+.magicslider .bx-wrapper .bx-controls-direction a.bx-prev:before,.magicslider .bx-wrapper .bx-controls-direction a.bx-next:before{line-height: 65px;display: inline-block;font-family: "Ionicons";font-size: 120px;}
+.magicslider:hover .bx-wrapper .bx-controls-direction .bx-next{visibility: inherit;opacity: 0.25;}
+.magicslider:hover .bx-wrapper .bx-controls-direction .bx-prev{visibility: inherit;opacity: 0.25;}
+.magicslider .bx-wrapper .bx-controls-direction .bx-next:hover,.magicslider .bx-wrapper .bx-controls-direction .bx-prev:hover{opacity: 1;}
+.magicslider .bx-prev{-ms-transform: translateY(-50%); -webkit-transform: translateY(-50%);transform: translateY(-50%);}
+.magicslider .bx-next{-ms-transform: translateY(-50%);-webkit-transform: translateY(-50%);transform: translateY(-50%);}
+.magicslider .bx-wrapper .bx-pager{text-align: center;padding: 0;bottom: 30px;}
+.magicslider .bx-wrapper .bx-pager .bx-pager-item { margin: 0 5px;}
+.magicslider .bx-wrapper .bx-pager.bx-default-pager a{width: 20px;height: 2px;line-height: normal;margin:0 ;text-align: center;border-radius: 0;font-size: 12px;background-color: #fff;}
+.magicslider .bx-wrapper .bx-pager .bx-pager-item a:hover, .magicslider .bx-wrapper .bx-pager .bx-pager-item a.active {background-color: #f0002f;}
+.magicslider .bx-wrapper .bx-pager .bx-pager-item a.active{width: 20px;height: 2px;}
+
+@media (min-width: 1201px) and (max-width: 1500px) {
+}

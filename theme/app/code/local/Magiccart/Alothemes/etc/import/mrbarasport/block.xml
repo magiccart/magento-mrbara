@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<root>
+  <block>
+    <item>
+      <title><![CDATA[Footer Links]]></title>
+      <identifier><![CDATA[footer_links]]></identifier>
+      <content><![CDATA[<ul class="footer links">
+	<li class="nav item"><a href="{{store url=""}}privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+	<li class="nav item"><a href="{{store url=""}}customer-service/">Customer Service</a></li>
+	<li class="nav item"><a href="{{store url=""}}sales/guest/form/">Orders and Returns</a></li>
+	<li class="nav item"><a href="{{store url=""}}catalogsearch/advanced/">Advanced Search</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[contact_details]]></title>
+      <identifier><![CDATA[contact_details]]></identifier>
+      <content><![CDATA[<div class="contact_details">
+	<h3 class="page-subheading">Contact details</h3>
+	<p class="short-description">'If you need any help, please contact us or send us an email or go to our forum.<br>We are sure that you can receive our reply as soon as possible.</p>
+	<div class="contact_info">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+			    <div class="info_main border_right">
+					<div class="ion-iphone icons"><span class="hidden">hidden</span></div>
+					<div class="flex">
+						<p class="tit-name">Phone</p>
+						<p class="tit-contain">Phone 01: (0091) 8547 632521</p>
+						<p class="tit-contain">Phone 02: (084) 965 4788</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="info_main border_right">
+					<div class="ion-ios-location-outline icons"><span class="hidden">hidden</span></div>
+					<div class="flex">
+						<p class="tit-name">Address</p>
+						<p class="tit-contain">69 Halsey St, New York, Ny 10002,</p>
+						<p class="tit-contain">United States.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="info_main">
+					<div class="ion-ios-email-outline icons"><span class="hidden">hidden</span></div>
+					<div class="flex">
+						<p class="tit-name">Email</p>
+						<p class="tit-contain"><a href="mailto:support@mrbarastore.com">support@mrbarastore.com</a></p>
+						<p class="tit-contain"><a href="mailto:hello@mrbarastore.com">hello@mrbarastore.com</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_contact_map]]></title>
+      <identifier><![CDATA[block_contact_map]]></identifier>
+      <content><![CDATA[<div class="google-map">
+	<div style="width: 100%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193572.19492843866!2d-74.11808565615138!3d40.70556503857166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1502338412439" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[About Us cms-static-company-worker]]></title>
+      <identifier><![CDATA[cms-static-company-worker]]></identifier>
+      <content><![CDATA[<div class="crazy-team">
+	<div class="page-team-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-1 col-sm-1 col-xs-2 col-xs-offset-1 col-md-offset-1 col-sm-offset-1 col-left custom-mobile">
+					<span class="mr-verticle-line"><span class="hidden">hidden</span></span>
+				</div>
+				<div class="col-md-8 col-sm-8 col-xs-8 col-xs-offset-1 col-md-offset-2 col-sm-offset-2 col-right custom-mobile">
+					<div class="about-content">
+						<div class="sub-title color-black">Our Team</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="about-img about-img-full"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/about-us.jpg"}}" alt="about" /></div>
+		<div class="crazy-team-inner">
+		    <div class="container">
+				<div class="row">
+					<div class="item col-md-4 col-sm-6 col-xs-6">
+						<div class="team-item">
+							<div class="images-team"><a href="#"> <img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people1.jpg"}}" alt="team" /> </a></div>
+							<h2 class="team-name">Alberto Kayel</h2>
+							<h3>CEO founder</h3>
+						</div>
+					</div>
+					<div class="item col-md-4 col-sm-6 col-xs-6">
+						<div class="team-item">
+							<div class="images-team"><a href="#"> <img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people2.jpg"}}" alt="team" /> </a></div>
+							<h2 class="team-name">Gabriel Eldo</h2>
+							<h3>CO founder</h3>
+						</div>
+					</div>
+					<div class="item col-md-4 col-sm-6 col-xs-6">
+						<div class="team-item">
+							<div class="images-team"><a href="#"> <img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people3.jpg"}}" alt="team" /> </a></div>
+							<h2 class="team-name">Elia Giovani</h2>
+							<h3>Product Manager</h3>
+						</div>
+					</div>
+					<div class="item col-md-4 col-sm-6 col-xs-6">
+						<div class="team-item">
+							<div class="images-team"><a href="#"> <img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people4.jpg"}}" alt="team" /> </a></div>
+							<h2 class="team-name">Dalton Garrin</h2>
+							<h3>UX/UI Designer</h3>
+						</div>
+					</div>
+					<div class="item col-md-4 col-sm-6 col-xs-6">
+						<div class="team-item">
+							<div class="images-team"><a href="#"> <img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people5.jpg"}}" alt="team" /> </a></div>
+							<h2 class="team-name">Maria Slovakia</h2>
+							<h3>Content Executive</h3>
+						</div>
+					</div>
+					<div class="item col-md-4 col-sm-6 col-xs-6">
+						<div class="team-item">
+							<div class="images-team"><a href="#"> <img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people6.jpg"}}" alt="team" /> </a></div>
+							<h2 class="team-name">Luther Frankil</h2>
+							<h3>SEO Marketing</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Menu Shop]]></title>
+      <identifier><![CDATA[block-menu-shop]]></identifier>
+      <content><![CDATA[<div class="cms-static-banner-menu">
+	<div class="banner-menu">
+		<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/img-menu-position.png"}}" alt="img Menu" /></a>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Menu Shop custom links]]></title>
+      <identifier><![CDATA[block-menu-shop-custom-links]]></identifier>
+      <content><![CDATA[<div class="content-mega">
+	<div class="content-mega-custom">
+	    <div class="container-full">
+			<ul class="mage-column-custom cat-mega1">
+				<li class="children level1">
+				   <a href="#"><span>New Arrivals</span></a>
+				   <a href="#"><span>Best seller</span></a>
+				   <a href="#"><span>Sale off</span></a>
+				   <a href="#"><span>sport</span></a>
+				   <a href="#"><span>leather</span></a>
+				   <a href="#"><span>beachwear</span></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[support]]></title>
+      <identifier><![CDATA[support]]></identifier>
+      <content><![CDATA[<div class="support">
+    <div class="icon-support">
+		<span class="icons fa fa-phone"><em class="hidden">hidden</em></span>
+	</div>
+	<div class="support-content">
+	    <p class="support-phone">Support: (034) 900 456 789</p>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[location]]></title>
+      <identifier><![CDATA[location]]></identifier>
+      <content><![CDATA[<div class="below-column">
+    <div class="links-wrapper-separators">
+		<ul class="links">
+			<li class="first item store-location">
+				<a href="{{store url=""}}locations/" title="Store Location">Store Location</a>
+			</li>
+			<li class="last item about-us">
+				<a href="{{store url=""}}about-magento-demo-store/" title="About Us">About Us</a>
+			</li>
+		</ul>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Slide Home Sport]]></title>
+      <identifier><![CDATA[static-home-slide]]></identifier>
+      <content><![CDATA[<div class="slide-home alo-magicslider"><div class="homeslider">{{widget type="magicslider/widget_slide" identifier="slide-home-sport" template="magiccart/magicslider/magicslider.phtml"}}</div></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="block-footer-bottom">
+	<div class="main-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-5 col-md-4 col-sm-4 col-xs-12 col-custom-footer col-custom-footer-1">
+					<div class="collapsible mobile-collapsible">
+						<div class="block1 block-content-statick block-logo">
+							<a href="#" class="marl"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/logo-5-light.png"}}" alt="img" /></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-5 col-sm-5 text-right col-custom-footer col-custom-footer-2">
+					<div class="block-newletter">{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}</div>
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-12 col-custom-footer col-custom-footer-3">
+					<div class="collapsible mobile-collapsible">
+						<div class="block-content-statick">
+							<div class="bullet footer-extras">
+								<div class="socials alo-social-links">
+									<div class="icon-share">
+										<a href="#" class="social-link facebook"><span class="fa fa-facebook"><span class="hidden">hidden</span></span></a>
+										<a href="#" class="social-link twitter"><span class="fa fa-twitter"><span class="hidden">hidden</span></span></a>
+										<a href="#" class="social-link pinterest"><span class="fa fa-pinterest"><span class="hidden">hidden</span></span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Home Sport Policy and Product]]></title>
+      <identifier><![CDATA[static_sections_bottom]]></identifier>
+      <content><![CDATA[<div class="page-alotheme static_sections_bottom">
+<!-- magiccategory -->
+<div class="alo-theme box-products box-category box-products-one">
+	<div class="alo-full-width">
+		{{widget type="magiccategory/widget_magiccategory" identifier="latest-products-sport" template="magiccart/magiccategory/magiccategory.phtml"}}
+	</div>
+</div>
+<!-- policy -->
+<div class="alo-theme cms-static-policy box-width policy">
+    <div class="container">
+		<div class="policy-wrap clearfix">
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-paper-airplane"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>Free Shipping</h3>
+							<p>Oders over $99</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-loop"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>90 days return</h3>
+							<p>If goods have problem</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-card"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>Secure payment</h3>
+							<p>100% secure payment</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-person-stalker"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>24h Support</h3>
+							<p>Dedicated support</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Custom Left Category Sport and Sunglass]]></title>
+      <identifier><![CDATA[left-category]]></identifier>
+      <content><![CDATA[<!-- category-sidebar-custom-product-->
+<div class="block left-module block-custom-left">{{widget type="magicproduct/widget_magicproduct" identifier="latest-product-sidebar-category-sport" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+  </block>
+</root>

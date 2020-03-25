@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<root>
+  <page>
+    <item>
+      <title><![CDATA[404 Not Found 1]]></title>
+      <root_template><![CDATA[one_column]]></root_template>
+      <identifier><![CDATA[no-route]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="page-title"><h1>Whoops, our bad...</h1></div>
+<dl>
+    <dt>The page you requested was not found, and we have a fine guess why.</dt>
+    <dd>
+        <ul class="disc">
+            <li>If you typed the URL directly, please make sure the spelling is correct.</li>
+            <li>If you clicked on a link to get here, the link is outdated.</li>
+        </ul>
+    </dd>
+</dl>
+<dl>
+    <dt>What can you do?</dt>
+    <dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd>
+    <dd>
+        <ul class="disc">
+            <li><a href="#" onclick="history.go(-1); return false;">Go back</a> to the previous page.</li>
+            <li>Use the search bar at the top of the page to search for your products.</li>
+            <li>Follow these links to get you back on track!<br /><a href="{{store url=""}}">Store Home</a>
+            <span class="separator">|</span> <a href="{{store url="customer/account"}}">My Account</a></li>
+        </ul>
+    </dd>
+</dl>
+]]></content>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[About Us]]></title>
+      <root_template><![CDATA[one_column]]></root_template>
+      <identifier><![CDATA[about-magento-demo-store]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="our-works">
+    <div class="container">
+		<div class="row our-story">
+			<div class="col-md-1 col-sm-1 col-xs-2 col-xs-offset-1 col-md-offset-1 col-sm-offset-1 col-left custom-mobile">
+				<span class="mr-verticle-line"><span class="hidden">hidden</span></span>
+			</div>
+			<div class="col-md-8 col-sm-8 col-xs-10 col-xs-offset-1 col-md-offset-2 col-sm-offset-2 col-right custom-mobile">
+				<div class="block-content about-content">
+					<div class="sub-title">Our history</div>
+					<div class="block-title">
+						<h2>Creative and renovate<br>fashion trends</h2>
+					</div>
+					<p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi feugiat molestie ex quis finibus. Quisque tincidunt dolor ut convallis lobortis. Proin ullamcorper eros ac ultrices imperdiet. Vivamus eros nibh, dictum sed venenatis vitae, ornare eget magna. Etiam mattis, felis eu interdum posuere, justo neque dictum sapien, eu luctus neque nulla non ante. Quisque pharetra facilisis mauris a hendrerit. Donec rutrum maximus turpis id luctus. In gravida pulvinar elit, a auctor mauris scele</p>
+					<div class="about-img"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/about2-img1.png"}}" alt="about" /></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Locations]]></title>
+      <root_template><![CDATA[one_column]]></root_template>
+      <identifier><![CDATA[locations]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="store-contact locations">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 store1">
+				<div class="store-item clearfix">
+				    <h3 class="block-title">Store 1</h3>
+					<div class="single-store">
+						<img class="img-responsive single-images" src="{{media url="wysiwyg/alothemes/cms/store1.jpg"}}" alt="" />
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+					</div>
+					<div class="column_right">
+						<ul class="store_info">
+							<li>
+								<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Email</span>
+									<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+									<span class="tit-contain"><a href="mailto:techone@gmail.com">techone@gmail.com</a></span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Phone</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Mail Office</span>
+									<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+								</p>
+							</li>
+						</ul>
+						<div class="onmap">
+							<div class="tool-map">
+								<div class="onclick-map">
+									<span>Find us on Map</span>
+								</div>
+								<div class="over-lay"><span class="hidden">hidden</span></div>
+								<div class="toggle-content-close toggle-content">
+									<div class="google-map">
+									     <div class="button btn-close"><span></span><span class="hidden">hidden</span><span></span></div>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d423283.33632842556!2d-118.69193052427944!3d34.02075039412672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos+Angeles%2C+California!5e0!3m2!1svi!2s!4v1481819994909" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-12 store2">
+				<div class="store-item clearfix">
+				    <h3 class="block-title">Store 2</h3>
+					<div class="single-store">
+						<img class="img-responsive single-images" src="{{media url="wysiwyg/alothemes/cms/store2.jpg"}}" alt="" />
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+					</div>
+					<div class="column_right">
+						<ul class="store_info">
+							<li>
+								<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Email</span>
+									<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+									<span class="tit-contain"><a href="mailto:techone@gmail.com">techone@gmail.com</a></span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Phone</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Mail Office</span>
+									<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, New York</span>
+								</p>
+							</li>
+						</ul>
+						<div class="onmap">
+							<div class="tool-map">
+								<div class="onclick-map">
+									<span>Find us on Map</span>
+								</div>
+								<div class="over-lay"><span class="hidden">hidden</span></div>
+								<div class="toggle-content-close toggle-content">
+									<div class="google-map">
+									    <div class="button btn-close"><span></span><span class="hidden">hidden</span><span></span></div>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193572.19492844603!2d-74.11808565615138!3d40.70556503857166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY!5e0!3m2!1sen!2s!4v1496922928887" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-12 store3">
+				<div class="store-item clearfix">
+				    <h3 class="block-title">Store 3</h3>
+					<div class="single-store">
+						<img class="img-responsive single-images" src="{{media url="wysiwyg/alothemes/cms/store3.jpg"}}" alt="" />
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+					</div>
+					<div class="column_right">
+						<ul class="store_info">
+							<li>
+								<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Email</span>
+									<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+									<span class="tit-contain"><a href="mailto:techone@gmail.com">techone@gmail.com</a></span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Phone</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Mail Office</span>
+									<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Paris</span>
+								</p>
+							</li>
+						</ul>
+						<div class="onmap">
+							<div class="tool-map">
+								<div class="onclick-map">
+									<span>Find us on Map</span>
+								</div>
+								<div class="over-lay"><span class="hidden">hidden</span></div>
+								<div class="toggle-content-close toggle-content">
+									<div class="google-map">
+									    <div class="button btn-close"><span></span><span class="hidden">hidden</span><span></span></div>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83998.94722604656!2d2.2775176578011154!3d48.85883773961771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C+France!5e0!3m2!1sen!2s!4v1496923013711" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-12 store4 last">
+				<div class="store-item clearfix">
+				    <h3 class="block-title">Store 4</h3>
+					<div class="single-store">
+						<img class="img-responsive single-images" src="{{media url="wysiwyg/alothemes/cms/store4.jpg"}}" alt="" />
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+					</div>
+					<div class="column_right">
+						<ul class="store_info">
+							<li>
+								<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Email</span>
+									<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+									<span class="tit-contain"><a href="mailto:techone@gmail.com">techone@gmail.com</a></span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Phone</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+									<span class="tit-contain">+ 021.343.7575</span>
+								</p>
+							</li>
+							<li>
+								<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+								<p class="flex">
+									<span class="tit-name">Mail Office</span>
+									<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Tokyo</span>
+								</p>
+							</li>
+						</ul>
+						<div class="onmap">
+							<div class="tool-map">
+								<div class="onclick-map">
+									<span>Find us on Map</span>
+								</div>
+								<div class="over-lay"><span class="hidden">hidden</span></div>
+								<div class="toggle-content-close toggle-content">
+									<div class="google-map">
+									    <div class="button btn-close"><span></span><span class="hidden">hidden</span><span></span></div>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d207432.99597381358!2d139.5703044659214!3d35.67354078930046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x605d1b87f02e57e7%3A0x2e01618b22571b89!2sTokyo%2C+Japan!5e0!3m2!1sen!2s!4v1496923187452" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+	</div>
+</div>]]></content>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Mr.Bara Home Fashion 2]]></title>
+      <root_template><![CDATA[one_column]]></root_template>
+      <identifier><![CDATA[home-fashion-2]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<!-- policy -->
+<div class="alo-theme cms-static-policy box-width policy">
+    <div class="container">
+		<div class="policy-wrap clearfix">
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-flash"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>Creative & Unique</h3>
+							<h3>Products</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-paper-airplane"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>Free Shipping</h3>
+							<h3>Worldwide</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-android-refresh"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>100% Money Back</h3>
+							<h3>Service</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="policy-box">
+				<div class="box-content">
+					<div class="service-content clearfix">
+					    <div class="icon-service">
+							<span class="icons i-icon ion-headphone"><em class="hidden">hidden</em></span>
+						</div>
+						<div class="info-title">
+							<h3>24/7 Dedicated</h3>
+							<h3>Support</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- magicproduct -->
+<div class="alo-theme box-products box-tab-title box-products-one">
+    <div class="container">
+		<div class="block-title block-title-tabs">
+			<h3>Popular Products</h3>
+		</div>
+	</div>
+	<div class="alo-magictabs">
+		{{widget type="magicproduct/widget_magicproduct" identifier="popular-products-fashion-v2" template="magiccart/magicproduct/magicproduct.phtml"}}
+	</div>
+</div>
+<!-- Info Banner -->
+<div class="info-banner">
+	<div class="info-banner-content">
+		<div class="row">
+			<div class="info-banner-normal banner-item banner-col-4 col-lg-4 col-md-4 col-sm-12">
+				<div class="banner-grid link-hover">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/fashion/img1b.jpg"}}" alt="img" /></a>
+					<div class="banner-content">
+						<div class="banner-desc">
+							<div class="b-title">Mini Bracelets</div>
+							<div class="desc"><p>New trending for bracelets style</p></div>
+						</div>
+						<a class="link" href="#" target="_self">explore<span class="ion-ios-arrow-thin-right"><span class="hidden">hidden</span></span> </a>
+					</div>
+				</div>
+			</div>
+			<div class="info-banner-normal banner-item banner-col-8 col-lg-8 col-md-8 col-sm-12">
+				<div class="banner-grid link-hover">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/fashion/img1c.jpg"}}" alt="img" /></a>
+					<div class="banner-content">
+						<div class="banner-desc">
+							<div class="b-title">Rings With Gem</div>
+							<div class="desc"><p>Luxurious &amp; Class</p></div>
+						</div>
+						<a class="link" href="#" target="_self">explore<span class="ion-ios-arrow-thin-right"><span class="hidden">hidden</span></span> </a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- magiccategory -->
+<div class="alo-theme box-products box-category box-products-two">
+	<div class="alo-box-width">
+		{{widget type="magiccategory/widget_magiccategory" identifier="feature-products-fashion-v2" template="magiccart/magiccategory/magiccategory.phtml"}}
+	</div>
+</div>
+<!-- Brand -->
+<div class="alo-brand cms-static-brand">{{widget type="shopbrand/widget_brand" template="magiccart/shopbrand/brand.phtml"}}</div>]]></content>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+  </page>
+</root>

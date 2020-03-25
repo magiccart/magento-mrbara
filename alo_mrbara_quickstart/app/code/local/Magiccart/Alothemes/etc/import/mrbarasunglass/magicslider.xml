@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <magicslider>
+    <slide>
+      <title><![CDATA[Slide Home Sunglass]]></title>
+      <identifier><![CDATA[slide-home-sunglass]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slider_home_glass-1.jpg","file":"\/s\/l\/slider_home_glass-1.jpg","label":"","position":1,"disabled":0,"removed":0},{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slider_home_glass-1_1.jpg","file":"\/s\/l\/slider_home_glass-1_1.jpg","label":"","position":2,"disabled":0,"removed":0}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1270";s:6:"height";s:3:"656";s:8:"controls";s:1:"1";s:5:"pager";s:1:"0";s:5:"pause";s:5:"60000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+  </magicslider>
+</root>

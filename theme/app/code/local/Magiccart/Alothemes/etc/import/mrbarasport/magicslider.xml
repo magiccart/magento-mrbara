@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <magicslider>
+    <slide>
+      <title><![CDATA[Slide Home Sport]]></title>
+      <identifier><![CDATA[slide-home-sport]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slider_home_sport-1.jpg","file":"\/s\/l\/slider_home_sport-1.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide1\">\n\t\t<h3 class=\"caption2 white\">New<br>Trending<br>2017<\/h3>\n\t\t<h3 class=\"caption3 white\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Phasellus elementum dolor nulla, nec venenatis metus finibus sed.<br>Nulla feugiat dolor dolor.<\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop primary-font\">Shop Now<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slider_home_sport-2.jpg","file":"\/s\/l\/slider_home_sport-2.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide2\">\n\t\t<h3 class=\"caption2 white\">Style<br>Fitness & Gym<br>So Cool<\/h3>\n\t\t<h3 class=\"caption3 white\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Phasellus elementum dolor nulla, nec venenatis metus finibus sed.<br>Nulla feugiat dolor dolor.<\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop primary-font\">Shop Now<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""},{"url":"http:\/\/web.com\/alo_mrbara1x\/media\/magiccart\/magicslider\/\/s\/l\/slider_home_sport-3.jpg","file":"\/s\/l\/slider_home_sport-3.jpg","label":"","position":"3","disabled":0,"removed":0,"html":"<div class=\"container figcaption\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption2 white\">New<br>Arrivals<br>June<\/h3>\n\t\t<h3 class=\"caption3 white\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Phasellus elementum dolor nulla, nec venenatis metus finibus sed.<br>Nulla feugiat dolor dolor.<\/h3>\n\t\t<h3 class=\"caption5\"><a href=\"#\" class=\"btn-shop primary-font\">Shop Now<\/a><\/h3>\n\t<\/div>\n<\/div>","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1800";s:6:"height";s:4:"1001";s:8:"controls";s:1:"1";s:5:"pager";s:1:"0";s:5:"pause";s:5:"60000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+  </magicslider>
+</root>
